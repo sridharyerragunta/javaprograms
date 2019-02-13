@@ -18,6 +18,7 @@ public class TestCar  {
      benz ob2=new benz();
      ob2.start();
      ob2.rooftop();
+     ob2.dashboard();
      
      
      CAR ob4=new BMW();

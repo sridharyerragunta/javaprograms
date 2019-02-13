@@ -11,6 +11,9 @@ public class benz extends CAR {
   }
   
   public void rooftop(){
-	  System.out.println("benz rooftop method");
+	  System.out.println("benz rooftop method1111");
+  }
+  public void dashboard(){
+	  System.out.println("benz dashboard method1111");
   }
 }
