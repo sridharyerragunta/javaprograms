@@ -1,6 +1,6 @@
 package JavaInterfaces;
 
 public interface rbi {
-  int limit=25000;
+  int limit=35000;
   public void banklimit();
 }
